@@ -6,7 +6,7 @@ using namespace std;
 double perimeter(double width, double height) {
     return 2 * (width + height);
 }
-
+//дылвадлывдплвадва
 double area(double width, double height) {
     return width * height;
 }
