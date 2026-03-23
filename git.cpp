@@ -28,7 +28,6 @@ int main() {
     }
     
     cout << "Длина окружности: " << lenght(r) << endl;
-	cout <<"Hello world"<<endl;
     cout << "Площадь круга: " << Area(r) << endl;
     
     cout << "Введите угол сектора (в градусах): ";
